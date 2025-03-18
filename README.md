@@ -1,1 +1,3 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UdayRajVadeghar&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UdayRajVadeghar&theme=radical)
+
